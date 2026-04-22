@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Batista31/DSA-problems/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Batista31/DSA-problems/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Batista31/DSA-problems/tree/master/0198-house-robber) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Batista31/DSA-problems/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Batista31/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Batista31/DSA-problems/tree/master/0198-house-robber) |
 ## Binary Search
 |  |
 | ------- |
