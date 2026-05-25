@@ -12,5 +12,5 @@ class Solution:
                 nums[mid],nums[low]=nums[low],nums[mid]
                 low+=1
                 mid+=1
-            elif nums[mid]==1:
+            else :
                 mid+=1
