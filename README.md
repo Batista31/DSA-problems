@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Batista31/DSA-problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Batista31/DSA-problems/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Batista31/DSA-problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Batista31/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Batista31/DSA-problems/tree/master/0567-permutation-in-string) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Batista31/DSA-problems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Batista31/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Batista31/DSA-problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Batista31/DSA-problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Batista31/DSA-problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Batista31/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Batista31/DSA-problems/tree/master/0198-house-robber) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Batista31/DSA-problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Batista31/DSA-problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Batista31/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Batista31/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 ## Tree
