@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Batista31/DSA-problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Batista31/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Batista31/DSA-problems/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/Batista31/DSA-problems/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Batista31/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Batista31/DSA-problems/tree/master/0567-permutation-in-string) |
 ## String
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Batista31/DSA-problems/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Batista31/DSA-problems/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Batista31/DSA-problems/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
@@ -154,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Batista31/DSA-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Batista31/DSA-problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Batista31/DSA-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Batista31/DSA-problems/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
