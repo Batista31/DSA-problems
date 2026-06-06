@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Batista31/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Batista31/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Batista31/DSA-problems/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Batista31/DSA-problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Batista31/DSA-problems/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
@@ -140,10 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Batista31/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Batista31/DSA-problems/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Batista31/DSA-problems/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Batista31/DSA-problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Batista31/DSA-problems/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Batista31/DSA-problems/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
