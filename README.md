@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Batista31/DSA-problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Batista31/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Batista31/DSA-problems/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Batista31/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Batista31/DSA-problems/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Batista31/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Batista31/DSA-problems/tree/master/0567-permutation-in-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Batista31/DSA-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Batista31/DSA-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Batista31/DSA-problems/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/Batista31/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Batista31/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Batista31/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Batista31/DSA-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Batista31/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Batista31/DSA-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Batista31/DSA-problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
