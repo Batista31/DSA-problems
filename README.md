@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Batista31/DSA-problems/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Batista31/DSA-problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Batista31/DSA-problems/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Batista31/DSA-problems/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Batista31/DSA-problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Batista31/DSA-problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Batista31/DSA-problems/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Batista31/DSA-problems/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Batista31/DSA-problems/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Batista31/DSA-problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Batista31/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Batista31/DSA-problems/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/Batista31/DSA-problems/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Batista31/DSA-problems/tree/master/1331-rank-transform-of-an-array) |
 ## Tree
 |  |
@@ -214,4 +217,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Batista31/DSA-problems/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Batista31/DSA-problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
