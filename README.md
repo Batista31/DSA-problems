@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Batista31/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Batista31/DSA-problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Batista31/DSA-problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Batista31/DSA-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Batista31/DSA-problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Batista31/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Batista31/DSA-problems/tree/master/0189-rotate-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Batista31/DSA-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Batista31/DSA-problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Batista31/DSA-problems/tree/master/0191-number-of-1-bits) |
 ## Linked List
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Batista31/DSA-problems/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Batista31/DSA-problems/tree/master/0881-boats-to-save-people) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Batista31/DSA-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
