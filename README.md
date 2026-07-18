@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Batista31/DSA-problems/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/Batista31/DSA-problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Batista31/DSA-problems/tree/master/0347-top-k-frequent-elements) |
+| [0682-baseball-game](https://github.com/Batista31/DSA-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Batista31/DSA-problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Batista31/DSA-problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Batista31/DSA-problems/tree/master/0875-koko-eating-bananas) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Batista31/DSA-problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Batista31/DSA-problems/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Batista31/DSA-problems/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/Batista31/DSA-problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Batista31/DSA-problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Batista31/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Batista31/DSA-problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
