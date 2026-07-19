@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Batista31/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Batista31/DSA-problems/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Batista31/DSA-problems/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Batista31/DSA-problems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Batista31/DSA-problems/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Batista31/DSA-problems/tree/master/0881-boats-to-save-people) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Batista31/DSA-problems/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/Batista31/DSA-problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Batista31/DSA-problems/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Batista31/DSA-problems/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Batista31/DSA-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Batista31/DSA-problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Batista31/DSA-problems/tree/master/0739-daily-temperatures) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Batista31/DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Batista31/DSA-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/Batista31/DSA-problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Batista31/DSA-problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Batista31/DSA-problems/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Batista31/DSA-problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Batista31/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Batista31/DSA-problems/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Batista31/DSA-problems/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Batista31/DSA-problems/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Batista31/DSA-problems/tree/master/1331-rank-transform-of-an-array) |
 ## Tree
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Batista31/DSA-problems/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Batista31/DSA-problems/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -177,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Batista31/DSA-problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Batista31/DSA-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Batista31/DSA-problems/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Batista31/DSA-problems/tree/master/0658-find-k-closest-elements) |
 ## Stack
 |  |
 | ------- |
