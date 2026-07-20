@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Batista31/DSA-problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Batista31/DSA-problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Batista31/DSA-problems/tree/master/0881-boats-to-save-people) |
+| [1260-shift-2d-grid](https://github.com/Batista31/DSA-problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Batista31/DSA-problems/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Batista31/DSA-problems/tree/master/0036-valid-sudoku) |
+| [1260-shift-2d-grid](https://github.com/Batista31/DSA-problems/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -249,4 +251,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Batista31/DSA-problems/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/Batista31/DSA-problems/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
