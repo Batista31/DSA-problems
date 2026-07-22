@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Batista31/DSA-problems/tree/master/0881-boats-to-save-people) |
 | [1260-shift-2d-grid](https://github.com/Batista31/DSA-problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Batista31/DSA-problems/tree/master/1331-rank-transform-of-an-array) |
+| [1470-shuffle-the-array](https://github.com/Batista31/DSA-problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Batista31/DSA-problems/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
