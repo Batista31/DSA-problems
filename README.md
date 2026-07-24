@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Batista31/DSA-problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Batista31/DSA-problems/tree/master/1929-concatenation-of-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Batista31/DSA-problems/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Batista31/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Batista31/DSA-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Batista31/DSA-problems/tree/master/0189-rotate-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Batista31/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Batista31/DSA-problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Batista31/DSA-problems/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/Batista31/DSA-problems/tree/master/0645-set-mismatch) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Batista31/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Batista31/DSA-problems/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Batista31/DSA-problems/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Batista31/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Greedy
 |  |
 | ------- |
