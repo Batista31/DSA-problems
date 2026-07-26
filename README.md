@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Batista31/DSA-problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Batista31/DSA-problems/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Batista31/DSA-problems/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Batista31/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Batista31/DSA-problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Batista31/DSA-problems/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Batista31/DSA-problems/tree/master/0682-baseball-game) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Batista31/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Batista31/DSA-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Batista31/DSA-problems/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Batista31/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Batista31/DSA-problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Batista31/DSA-problems/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Batista31/DSA-problems/tree/master/0881-boats-to-save-people) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Batista31/DSA-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Batista31/DSA-problems/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Batista31/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Batista31/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Batista31/DSA-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Memoization
