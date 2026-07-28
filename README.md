@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Batista31/DSA-problems/tree/master/0680-valid-palindrome-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Batista31/DSA-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Batista31/DSA-problems/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Batista31/DSA-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Batista31/DSA-problems/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Batista31/DSA-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Batista31/DSA-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Batista31/DSA-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Batista31/DSA-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Batista31/DSA-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Batista31/DSA-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Segment Tree
 |  |
 | ------- |
