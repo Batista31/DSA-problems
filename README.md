@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/Batista31/DSA-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Batista31/DSA-problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Batista31/DSA-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Batista31/DSA-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Batista31/DSA-problems/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Batista31/DSA-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Batista31/DSA-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Batista31/DSA-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Batista31/DSA-problems/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Batista31/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Batista31/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Batista31/DSA-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Batista31/DSA-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Memoization
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Batista31/DSA-problems/tree/master/0347-top-k-frequent-elements) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Batista31/DSA-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -299,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Batista31/DSA-problems/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Batista31/DSA-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
