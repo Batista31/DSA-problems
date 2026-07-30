@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Batista31/DSA-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Batista31/DSA-problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Batista31/DSA-problems/tree/master/0680-valid-palindrome-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Batista31/DSA-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Batista31/DSA-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Batista31/DSA-problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Batista31/DSA-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Batista31/DSA-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Batista31/DSA-problems/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Batista31/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Batista31/DSA-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Batista31/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Batista31/DSA-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Batista31/DSA-problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Batista31/DSA-problems/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Batista31/DSA-problems/tree/master/0881-boats-to-save-people) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Batista31/DSA-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
 | ------- |
